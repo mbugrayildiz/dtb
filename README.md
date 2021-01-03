@@ -1,4 +1,4 @@
-# dtsn
+# dtb
 
 Decentralized Text-based Blog on your commandline.
 
